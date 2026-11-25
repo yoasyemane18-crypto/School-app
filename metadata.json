@@ -1,0 +1,6 @@
+{
+  "name": "SafeRide & EduPay",
+  "description": "Ethiopian private school tuition fee reconciliation, mobile money checkout, and real-time school bus safety tracking portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
